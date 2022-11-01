@@ -10,6 +10,7 @@ const soldier = {
     }
     this.gun.cartridges--
     console.log(soldier.gun.cartridges)
+    console.log('бах бах бах')
   },
 
   recharge: function () {
